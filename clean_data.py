@@ -1,3 +1,2 @@
-Print(hi)
-
-
+print (Print(hi)
+print(id
