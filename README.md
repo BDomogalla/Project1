@@ -8,8 +8,14 @@ Project description/ outline:
 Evaluating baseball data to see how statistics drive various outcomes.
 
 
-Research questions to answer: Use baseball stats to look at factors that success (career, wins, hall of fame, team stats etc.), look at how regular season is different from playoffs statistically.
-
+Research questions to answer: 
+1) What factors drive players to get inducted into the HOF and what are the significance (coefficients) of each factor
+    a) what players who arent in the HOF, should be using those coefficients.
+    b) awards and how those factor into hall of fame status
+    c) differences over time about where hall of fame players were born
+    
+    
+  
 Datasets to be used: 
 
 https://github.com/chadwickbureau/baseballdatabank
@@ -20,10 +26,10 @@ Rough Breakdown of tasks:(to be determined)
 
 Merging CSV files to create a large, complete database
 
-Clean and Organize Database
+Clean and Organize Database: Taber & Patrick
 
-Statistical Analysis 
+Statistical Analysis: Bryan
 
-Visualizations
+Visualizations: Kyle
 
-Overall Analysis
+Overall Analysis: All
